@@ -5,5 +5,5 @@ def reverse_each_word(sentence)
     word.reverse
   end
   #return new_sentence
-#binding.pry
+binding.pry
 end
