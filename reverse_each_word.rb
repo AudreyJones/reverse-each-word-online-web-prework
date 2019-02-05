@@ -4,7 +4,7 @@ def reverse_each_word(sentence)
   #new_sentence = []
   #new_sentence =
   sentence.collect do |word|
-    return word.reverse
+    word.reverse
   end
   return new_sentence
 #binding.pry
